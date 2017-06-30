@@ -1,0 +1,14 @@
+=============================================================
+The three most popular articles of all time by total views:
+Candidate is jerk, alleges rival ==> 338647
+Bears love berries, alleges bear ==> 253801
+Bad things gone, say good people ==> 170098
+=============================================================
+The three most popular authors of all time by total views:
+Ursula La Multa ==> 507594
+Rudolf von Treppenwitz ==> 423457
+Anonymous Contributor ==> 170098
+=============================================================
+Days where more than '1%' of requests lead to errors.
+July 17, 2016
+2.26% errors
